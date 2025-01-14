@@ -1,19 +1,19 @@
 <div align="center">
-  <a href="https://sanajitjana.github.io" target="_blank">  
-    <img alt="Logo" src="https://sanajitjana.github.io/packages/images/logo.webp" width="50" />
+  <a href="https://arfhsanim.github.io" target="_blank">  
+    <img alt="Logo" src="https://arfhsanim.github.io/packages/images/logo.webp" width="50" />
   </a>
 </div>
 <h1 align="center">
-  sanajitjana.github.io - v2
+  arfhsanim.github.io - v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://sanajitjana.github.io" target="_blank">sanajitjana.github.io</a> built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+  The second iteration of <a href="https://arfhsanim.github.io" target="_blank">arfhsanim.github.io</a> built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 </p>
 
 <!-- website version -->
 <!-- <p align="center">
   Previous versions:
-  <a href="https://sanajitjana.github.io" target="_blank">v1</a>
+  <a href="https://arfhsanim.github.io" target="_blank">v1</a>
 </p> -->
 
 <p align="center">
@@ -39,7 +39,7 @@
 ✔️ Projects\
 ✔️ Contact
 
-Check this out, **[Live URL](https://sanajitjana.github.io/)**
+Check this out, **[Live URL](https://arfhsanim.github.io/)**
 
 ## Tech Stacks & Tools Used 🛠️
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,github,vscode&theme=light)](#)
@@ -53,7 +53,7 @@ Check this out, **[Live URL](https://sanajitjana.github.io/)**
 
 ## 🚨 Forking this repo (please read!)
 
-This repository is fully Open Source, Feel free to fork this, yes you heard it right - you can fork this repo without asking anyone. Before that please give me a star, fork it, and customize it as per your wish. If you face any difficulty you can connect with me <a href="mailto:mail.sanajitjana@gmail.com">mail.sanajitjana@gmail.com</a>.
+This repository is fully Open Source, Feel free to fork this, yes you heard it right - you can fork this repo without asking anyone. Before that please give me a star, fork it, and customize it as per your wish. If you face any difficulty you can connect with me <a href="mailto:mail.ariful.cse37@gmail.com">mail.ariful.cse37@gmail.com</a>.
 
 - Give a start (:star:) and then click on fork (:fork_and_knife:) to your account.
 - Clone your repo and modify the content of <b>index.html</b> according to your requirement.
